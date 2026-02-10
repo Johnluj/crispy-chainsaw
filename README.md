@@ -56,10 +56,9 @@ Modern, mobile-first, responsive website for **Delight Tech Network** — a full
 H34, Heritage Mall, Dugbe  
 Ibadan, Oyo State, Nigeria  
 
-📞 **0708 996 27177** | **0905 720 6130**  
-📧 adeagbojohnhu@gmail.com  
-🌐 delightbranding.netlify.app
-
+📞 **0708 962 7177** | 0905 720 6130 
+📧 adeagbojohnhuj@gmail.com  
+🌐 https://delightnetwork.netlify.app
 ## 🚀 Quick Start (Local Development)
 
 1. Clone the repository
